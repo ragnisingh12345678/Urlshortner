@@ -56,3 +56,7 @@ Serve the application:
 
 Bash
 php artisan serve
+
+## Author
+
+Ragani Kushwaha
