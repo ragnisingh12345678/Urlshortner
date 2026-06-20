@@ -1,5 +1,4 @@
 # UrlshortnerURL Shortener Service
-Yeh project ek robust URL Shortening Service hai jo Laravel framework ka upyog karke banayi gayi hai. Iska mukhya uddeshya companies aur unke users ke liye secure, role-based URL management provide karna hai.
 
 🚀 Key Features
 Role-Based Access Control (RBAC): SuperAdmin, Admin, Member, Sales, aur Manager ke liye alag-alag permissions.
